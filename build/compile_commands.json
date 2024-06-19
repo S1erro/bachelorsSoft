@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/sie/grad_prj/build",
+  "command": "/usr/bin/c++  -I/home/sie/grad_prj/include -I/home/sie/grad_prj/darknet/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/emulator.dir/src/config_manager.cpp.o -c /home/sie/grad_prj/src/config_manager.cpp",
+  "file": "/home/sie/grad_prj/src/config_manager.cpp"
+},
+{
+  "directory": "/home/sie/grad_prj/build",
+  "command": "/usr/bin/c++  -I/home/sie/grad_prj/include -I/home/sie/grad_prj/darknet/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/emulator.dir/src/display.cpp.o -c /home/sie/grad_prj/src/display.cpp",
+  "file": "/home/sie/grad_prj/src/display.cpp"
+},
+{
+  "directory": "/home/sie/grad_prj/build",
+  "command": "/usr/bin/c++  -I/home/sie/grad_prj/include -I/home/sie/grad_prj/darknet/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/emulator.dir/src/image_processing.cpp.o -c /home/sie/grad_prj/src/image_processing.cpp",
+  "file": "/home/sie/grad_prj/src/image_processing.cpp"
+},
+{
+  "directory": "/home/sie/grad_prj/build",
+  "command": "/usr/bin/c++  -I/home/sie/grad_prj/include -I/home/sie/grad_prj/darknet/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/emulator.dir/src/main.cpp.o -c /home/sie/grad_prj/src/main.cpp",
+  "file": "/home/sie/grad_prj/src/main.cpp"
+},
+{
+  "directory": "/home/sie/grad_prj/build",
+  "command": "/usr/bin/c++  -I/home/sie/grad_prj/include -I/home/sie/grad_prj/darknet/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/emulator.dir/src/sound.cpp.o -c /home/sie/grad_prj/src/sound.cpp",
+  "file": "/home/sie/grad_prj/src/sound.cpp"
+}
+]

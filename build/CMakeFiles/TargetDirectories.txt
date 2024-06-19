@@ -1,0 +1,3 @@
+/home/sie/grad_prj/build/CMakeFiles/emulator.dir
+/home/sie/grad_prj/build/CMakeFiles/edit_cache.dir
+/home/sie/grad_prj/build/CMakeFiles/rebuild_cache.dir
